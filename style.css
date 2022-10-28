@@ -1,0 +1,53 @@
+#welcome {
+    position: absolute;
+    overflow: hidden;
+    height: 800px;
+    color: #FFFFFF;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    opacity: 0.83;
+    display: table;
+    width: 100%;
+    height: 100%;
+}
+body {
+    margin: 0;
+    padding-top: 800px;
+text-align: center;
+background: linear-gradient(#8b0505 0%,#ec931e 100%);
+}
+
+.profile {
+    width: 175px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+}
+h1 {
+
+    font-size: 40px;
+    line-height: 1.2;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+}
+
+#name {
+    font-size: 30px;
+    line-height: 1.2;
+    font-family: cursive
+}
+
+h2 {
+    font-size: 30px;
+    font-weight: 300;
+    line-height: 1.2;
+    font-family: monospace
+}
+#cursos{
+    color: whitesmoke;
+    
+}
+a{
+    font-size: 40px;
+}
